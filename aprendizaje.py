@@ -1,0 +1,1 @@
+print("Lo que aprendí de este taller fue a utilizar diferentes cosas de Github: MCP server, hacer pull requests, crear mis issues para asignarlos a branches, resolver conflictos de merge y en general tener buenas prácticas")
