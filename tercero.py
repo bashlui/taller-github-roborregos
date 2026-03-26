@@ -1,0 +1,1 @@
+print("Un MCP server es un servidor que permite la comunicación entre diferentes herramientas de la plataforma correspondiente. Por ejemplo, el MCP de Github permite a un agente de AI crear issues, crear branches, crear readme files, etc.")
