@@ -1,0 +1,1 @@
+print("Creo que un termino que se me quedó fue el merge conflict, que feo pasar por eso lol")
